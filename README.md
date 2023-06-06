@@ -1,0 +1,3 @@
+# Combinational Optimization - Semester Assignment
+
+A university semester assignment for the subject "Combinational Optimization". The assignment was based on an imaginary business that we had, with factors such as cost of the product, man-hours needed for the production and service, both expressed as arithmetic variables, that would be optimized with the Simplex method. It was written in matlab code.
